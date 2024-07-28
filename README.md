@@ -4,4 +4,4 @@
 
 https://arxiv.org/pdf/1703.10593
 
-![Result](saved_image/result.jpg)
+![Result](saved_images/result.jpg)
